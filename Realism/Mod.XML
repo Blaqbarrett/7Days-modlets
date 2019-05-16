@@ -1,0 +1,13 @@
+<mod>
+  <info>
+    <author>Blaqbarrett</author>
+    <name>7D2D-Realism</name>
+    <description>A Realism Mod for our favorite 7 Days to Die</description>
+    <mod_version>0.0.0.1</mod_version>
+    <game_version>17.3</game_version>
+    <launcher_version>0.0.0</launcher_version>
+  </info>
+  <hashes>
+    <hash filename="Config\Localization.txt" hash="58f5d9e3a1418bda77b3c704c8f96a91" />
+  </hashes>
+</mod>
