@@ -1,0 +1,13 @@
+<mod>
+  <info>
+    <author>Blaqbarrett</author>
+    <name>7_Days_2_Die_German</name>
+    <description>7 Days endlich mal mit einer gescheiten Deutschen übersetzung</description>
+    <mod_version>0.1</mod_version>
+    <game_version>17.3</game_version>
+    <launcher_version>0.0.0</launcher_version>
+  </info>
+  <hashes>
+    <hash filename="Config\Localization.txt" hash="58f5d9e3a1418bda77b3c704c8f96a91" />
+  </hashes>
+</mod>
