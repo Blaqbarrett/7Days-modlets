@@ -19,10 +19,40 @@ recieps
   tools
   
     some new tools
+    
+    butchering knife
+    
+    mower
   
   food/drinks
     
     many new food/drinks and changed recieps for the actual food/drinks
+  
+  crops
+    
+    tomatoes
+    
+    wheat
+    
+    carrots
+    
+    strawberryies
+    
+    radish
+    
+    lettuce
+    
+  ingredients
+  
+    milk
+    
+    cheese
+    
+    lettuce leaf
+    
+    meat slices
+    
+    ketchup
   
   medical equipment
   
@@ -91,6 +121,8 @@ recieps
       heavy tools station (auger, chainsaw)
       
       smithy(for parts which needs not only be smelted)
+      
+      butchering station
   
     decorative blocks
   
