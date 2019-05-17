@@ -1,0 +1,112 @@
+Translation to English/German
+
+recieps
+  
+  weapons
+  
+  ammuniton
+  
+  tools
+  
+  food
+  
+  medical equipment
+  
+  equipment
+  
+  resources
+
+items
+
+  weapons
+  
+  ammuniton
+  
+  tools
+  
+  food
+  
+  medical equipment
+  
+  equipment
+  
+  resources
+
+blocks
+
+  building blocks
+  
+  recource blocks
+  
+  crafting stations
+  
+  decorative blocks
+
+starting equipment
+  
+  food
+  
+  water
+  
+  equipment
+
+zombie KI
+
+  no jumping
+  
+  no climbing
+  
+  using objects that were equipped at death (axe for lunberjacks...)
+
+zombie classes
+
+player classes
+
+  police men (pistol)
+  
+    swat member (schields and heavyarmor)
+  
+  hunter (single shot rifles)
+  
+    ...
+  
+  army men (automatic weapons)
+    
+    weapon specialist (heavy weapons)
+  
+  doctor (medical suplies)
+   
+    ...
+  
+  labourer (building blocks)
+    
+    ...
+  
+  tailor (clothing)
+    
+    ...
+  
+  mechanic (tools)
+  
+     ...
+  
+  gang member (shotguns)
+  
+     ...
+  
+  
+
+quests
+
+  starting quests
+
+  class quests
+
+  trader quests
+  
+  quests from drop
+ 
+content of loot containers
+
+content of air drops
+
