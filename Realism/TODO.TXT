@@ -5,16 +5,19 @@ balancing
   armor
     
     make all types of armor make sense
+___________________________________________________________________________________________________________________________
 
 recieps
   
   weapons
   
     many new weapons
+  *****************************************************************
   
   ammuniton
     
     several new calibers and types of ammunition
+  *****************************************************************
   
   tools
   
@@ -23,10 +26,12 @@ recieps
     butchering knife (at the smithy)
     
     mower (at the smithy)
+  ******************************************************************
   
   food/drinks
     
     many new food/drinks and changed recieps for the actual food/drinks
+  ******************************************************************
   
   crops
     
@@ -41,7 +46,8 @@ recieps
     radish (at the mortar and by harvesting wild plants)
     
     lettuce (at the mortar and by harvesting wild plants)
-    
+  ******************************************************************
+  
   ingredients
   
     milk (from cows, and goats)
@@ -53,6 +59,7 @@ recieps
     meat slices (1 meat gives 2 slices)
     
     ketchup (10 tomatoes give 1 ketchup)
+  ******************************************************************
   
   medical equipment
   
@@ -63,10 +70,12 @@ recieps
     gill crist (at the medical suply station)
     
     crutch (at the medical suply station)
+  ******************************************************************
   
   equipment
   
     new early stage set of armour made from plant fibres and strings
+  ******************************************************************
   
   resources
   
@@ -95,6 +104,7 @@ recieps
     gun powder (at the chemistrystation(nitre, coal))
     
     steel ingots (needing carbon now, at the smithy)
+  ******************************************************************
   
   blocks
     
@@ -109,7 +119,8 @@ recieps
       windows (at the table saw)
       
       doors (at the table saw)
-      
+    ******************************************************************
+    
     crafting stations
     
       tailor station (given by quest?)
@@ -139,6 +150,7 @@ recieps
       gas pump (at the garage)
       
       more colors for cupboards (at the table saw)
+___________________________________________________________________________________________________________________________
 
 items
 
@@ -157,6 +169,7 @@ items
   resources
   
     bend nails (from loot and by destructing wood blocks)
+___________________________________________________________________________________________________________________________
 
 blocks
 
@@ -173,6 +186,7 @@ blocks
   decorative blocks
   
     gas pump
+___________________________________________________________________________________________________________________________
 
 starting equipment 
   
@@ -181,6 +195,7 @@ starting equipment
   water
   
   equipment (depending on the chosen class)
+___________________________________________________________________________________________________________________________
 
 zombie KI
 
@@ -189,47 +204,57 @@ zombie KI
   no climbing
   
   using objects that were equipped at death (just melee weapons(axe for lunberjacks, baseballbat for punker))
+___________________________________________________________________________________________________________________________
 
 zombie classes
+___________________________________________________________________________________________________________________________
 
 player classes
 
   police men (pistol)
   
     swat member (schields and heavyarmor(iron, steel))
+  ******************************************************************
   
   hunter (single shot rifles)
   
     big game hunter (heavy sniper rifles)
+  ******************************************************************
   
   army men (automatic weapons)
     
     weapon specialist (heavy weapons)
+  ******************************************************************
   
   doctor (medical suplies)
    
     surgeon (speial medical tools that can only be used by the surgeon but from him on other partymembers)
+  ******************************************************************
   
   labourer (building blocks(wood, scrapiron, 1st step of cobblestone))
     
     constructor (building with 2nd step of cobblestone, concrete, steel)
+  ******************************************************************
   
   tailor (clothing and primitive armor)
     
     ... (crafting light armor(cloth, leather, scrap iron))
+  ******************************************************************
   
   mechanic (bicycles, minibikes, tools)
   
      heavy equipment expert (vehicles (cars, helicopers))
+  ******************************************************************
   
   gang member (shotguns)
   
      gang boss (getting more money from quests, trades)
-     
+  ******************************************************************   
+  
   farmer (crops and early food/drinks)
   
     rancher (Animals and good food)
-  
+___________________________________________________________________________________________________________________________  
 
 quests
 
@@ -240,16 +265,20 @@ quests
     each main class will get an individual quest for their needs
     
     each sub class will get a quest which can be started after completing the quest for the main class and getting to level 80
-
+  ******************************************************************
+  
   trader quests
   
     more variety for the trader quests not only clean, fetch and burried suplies
+  ******************************************************************
   
   quests from drop
   
     in extension to the kill quests quests where you have to get the specified item in the specified amount
- 
+___________________________________________________________________________________________________________________________ 
+
 content of loot containers
+___________________________________________________________________________________________________________________________
 
 content of air drops
-
+___________________________________________________________________________________________________________________________
