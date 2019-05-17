@@ -19,6 +19,10 @@ recieps
   blocks
     
     building blocks
+    
+      wood frames 
+      
+      2nd step cobblestone
       
     crafting stations
     
@@ -108,9 +112,9 @@ player classes
    
     surgeon (speial medical tools that can only be used by the surgeon but from him on other partymembers)
   
-  labourer (building blocks(wood, scrapiron, 1st step of cubblestone))
+  labourer (building blocks(wood, scrapiron, 1st step of cobblestone))
     
-    constructor (building with 2nd step of cubblestone, concrete, steel)
+    constructor (building with 2nd step of cobblestone, concrete, steel)
   
   tailor (clothing and primitive armor)
     
