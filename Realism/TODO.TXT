@@ -30,6 +30,16 @@ recieps
     
     brass
     
+    strings
+    
+    fabric
+    
+    patched leather
+    
+    steel plates
+    
+    iron plates
+    
     
   
   blocks
@@ -63,6 +73,8 @@ recieps
       weapon station
       
       heavy tools station (auger, chainsaw)
+      
+      smithy(for parts which needs not only be smelted)
   
     decorative blocks
   
