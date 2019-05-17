@@ -12,9 +12,25 @@ recieps
   
   medical equipment
   
+    scalpel
+    
+    stiff neck
+    
+    gill crist
+    
+    crutch
+  
   equipment
   
   resources
+  
+    wood bar
+    
+    bend nails
+    
+    brass
+    
+    
   
   blocks
     
@@ -23,6 +39,12 @@ recieps
       wood frames 
       
       2nd step cobblestone
+      
+      rebar frames
+      
+      windows
+      
+      doors
       
     crafting stations
     
@@ -67,6 +89,10 @@ items
 blocks
 
   building blocks
+  
+    windows
+      
+    doors
   
   recource blocks
   
