@@ -15,6 +15,34 @@ recieps
   equipment
   
   resources
+  
+  blocks
+    
+    building blocks
+      
+    crafting stations
+    
+      tailor station
+      
+      heavy weapons station
+      
+      ammunition station
+      
+      heavy armor station
+      
+      medical suply station
+      
+      garage
+      
+      weapon station
+      
+      heavy tools station (auger, chainsaw)
+  
+    decorative blocks
+  
+      gas pump
+      
+      
 
 items
 
@@ -41,14 +69,16 @@ blocks
   crafting stations
   
   decorative blocks
+  
+    gas pump
 
-starting equipment
+starting equipment 
   
   food
   
   water
   
-  equipment
+  equipment (depending on the chosen class)
 
 zombie KI
 
@@ -56,7 +86,7 @@ zombie KI
   
   no climbing
   
-  using objects that were equipped at death (axe for lunberjacks...)
+  using objects that were equipped at death (just melee weapons(axe for lunberjacks, baseballbat for punker))
 
 zombie classes
 
@@ -64,7 +94,7 @@ player classes
 
   police men (pistol)
   
-    swat member (schields and heavyarmor(iron, steal))
+    swat member (schields and heavyarmor(iron, steel))
   
   hunter (single shot rifles)
   
@@ -78,11 +108,11 @@ player classes
    
     surgeon (speial medical tools that can only be used by the surgeon but from him on other partymembers)
   
-  labourer (building blocks)
+  labourer (building blocks(wood, scrapiron, 1st step of cubblestone))
     
-    ...
+    constructor (building with 2nd step of cubblestone, concrete, steel)
   
-  tailor (clothing)
+  tailor (clothing and primitive armor)
     
     ... (crafting light armor(cloth, leather, scrap iron))
   
@@ -103,6 +133,8 @@ quests
   class quests
   
     each main class will get an individual quest for their needs
+    
+    each sub class will get a quest which can be started after completing the quest for the main class and getting to level 80
 
   trader quests
   
