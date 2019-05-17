@@ -64,11 +64,11 @@ player classes
 
   police men (pistol)
   
-    swat member (schields and heavyarmor)
+    swat member (schields and heavyarmor(iron, steal))
   
   hunter (single shot rifles)
   
-    ...
+    big game hunter (heavy sniper rifles)
   
   army men (automatic weapons)
     
@@ -76,7 +76,7 @@ player classes
   
   doctor (medical suplies)
    
-    ...
+    surgeon (speial medical tools that can only be used by the surgeon but from him on other partymembers)
   
   labourer (building blocks)
     
@@ -84,15 +84,15 @@ player classes
   
   tailor (clothing)
     
-    ...
+    ... (crafting light armor(cloth, leather, scrap iron))
   
-  mechanic (tools)
+  mechanic (bicycles, minibikes, tools)
   
-     ...
+     heavy equipment expert (vehicles (cars, helicopers))
   
   gang member (shotguns)
   
-     ...
+     gang boss (getting more money from quests, trades)
   
   
 
@@ -101,10 +101,16 @@ quests
   starting quests
 
   class quests
+  
+    each main class will get an individual quest for their needs
 
   trader quests
   
+    more variety for the trader quests not only clean, fetch and burried suplies
+  
   quests from drop
+  
+    in extension to the kill quests quests where you have to get the specified item in the specified amount
  
 content of loot containers
 
