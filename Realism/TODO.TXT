@@ -1,14 +1,28 @@
 Translation to English/German
 
+balancing 
+  
+  armor
+    
+    make all types of armor make sense
+
 recieps
   
   weapons
   
+    many new weapons
+  
   ammuniton
+    
+    several new calibers and types of ammunition
   
   tools
   
-  food
+    some new tools
+  
+  food/drinks
+    
+    many new food/drinks and changed recieps for the actual food/drinks
   
   medical equipment
   
@@ -21,6 +35,8 @@ recieps
     crutch
   
   equipment
+  
+    new early stage set of armour made from plant fibres
   
   resources
   
@@ -40,7 +56,7 @@ recieps
     
     iron plates
     
-    
+    gun powder
   
   blocks
     
