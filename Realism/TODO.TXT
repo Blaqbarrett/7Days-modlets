@@ -20,9 +20,9 @@ recieps
   
     some new tools
     
-    butchering knife
+    butchering knife (at the smithy)
     
-    mower
+    mower (at the smithy)
   
   food/drinks
     
@@ -30,105 +30,115 @@ recieps
   
   crops
     
-    tomatoes
+    tomatoes (at the mortar and by harvesting wild plants)
     
-    wheat
+    wheat (at the mortar and by harvesting wild plants)
     
-    carrots
+    carrots (at the mortar and by harvesting wild plants)
     
-    strawberryies
+    strawberryies (at the mortar and by harvesting wild plants)
     
-    radish
+    radish (at the mortar and by harvesting wild plants)
     
-    lettuce
+    lettuce (at the mortar and by harvesting wild plants)
     
   ingredients
   
-    milk
+    milk (from cows, and goats)
     
-    cheese
+    cheese (4 milk give 1 cheese)
     
-    lettuce leaf
+    lettuce leaf (1 lettuce give 4 leaves)
     
-    meat slices
+    meat slices (1 meat gives 2 slices)
     
-    ketchup
+    ketchup (10 tomatoes give 1 ketchup)
   
   medical equipment
   
-    scalpel
+    scalpel (at the smithy)
     
-    stiff neck
+    stiff neck (at the medical suply station)
     
-    gill crist
+    gill crist (at the medical suply station)
     
-    crutch
+    crutch (at the medical suply station)
   
   equipment
   
-    new early stage set of armour made from plant fibres
+    new early stage set of armour made from plant fibres and strings
   
   resources
   
-    wood bar
+    plant fibre fabric (backpack or workingstation)
+  
+    nails( at the chopping block with a hammer (2 bend nails 1 nails), at the smithy with a sledgehammer (10 out of one iron ingots))
     
-    bend nails
+    arrow shafts (at the chopping block)
+  
+    wood bar (at the chopping block)
+        
+    brass (at the forge from copper and tin with a crucible)
     
-    brass
+    strings (backpack or workingstation (plantfibres), scrapping clothes)
     
-    strings
+    fabric (at the tailor station with a sewing kit)
     
-    fabric
+    patched leather (at the tailor station)
     
-    patched leather
+    steel plates (at the smithy with a sledgehammer)
     
-    steel plates
+    iron plates (at the smithy with a sledgehammer)
     
-    iron plates
+    nitre (at the chemistry station(nitrate,))
     
-    gun powder
+    gun powder (at the chemistrystation(nitre, coal))
+    
+    steel ingots (needing carbon now, at the smithy)
   
   blocks
     
     building blocks
     
-      wood frames 
+      wood frames (backpack or workingstation)
       
-      2nd step cobblestone
+      2nd step cobblestone (with concrete)
       
-      rebar frames
+      rebar frames (moving from forge to smithy)
+            
+      windows (at the table saw)
       
-      windows
-      
-      doors
+      doors (at the table saw)
       
     crafting stations
     
-      tailor station
+      tailor station (given by quest?)
       
-      heavy weapons station
+      heavy weapons station (given by quest?)
       
-      ammunition station
+      ammunition station (given by quest?)
       
-      heavy armor station
+      heavy armor station (given by quest?)
       
-      medical suply station
+      medical suply station (given by quest?)
       
-      garage
+      garage (given by quest?)
       
-      weapon station
+      weapon station (given by quest?)
       
-      heavy tools station (auger, chainsaw)
+      heavy tools station (given by quest?(auger, chainsaw))
       
-      smithy(for parts which needs not only be smelted)
+      smithy (given by quest?(for parts which needs not only be smelted))
       
-      butchering station
+      butchering station (given by quest?)
+      
+      chopping block (for making wood from trees smaller with an axe (amount depending on the type of axe), build by placing a treestump)
   
     decorative blocks
   
-      gas pump
+      gas pump (at the garage)
       
-      
+      more colors for cupboards (at the table saw)
 
 items
 
@@ -145,6 +155,8 @@ items
   equipment
   
   resources
+  
+    bend nails (from loot and by destructing wood blocks)
 
 blocks
 
@@ -213,7 +225,10 @@ player classes
   gang member (shotguns)
   
      gang boss (getting more money from quests, trades)
+     
+  farmer (crops and early food/drinks)
   
+    rancher (Animals and good food)
   
 
 quests
