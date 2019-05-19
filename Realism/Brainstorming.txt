@@ -6,3 +6,5 @@ napalm felder
 mehr rotation für blöcke
 verstärkter stahl
 seltene starke rescourcen
+Sinnvole rezepte
+Truhen für bestimmte sachen (Munition, waffen, medizin, baumaterialien...)
