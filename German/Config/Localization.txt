@@ -183,7 +183,7 @@ cobblestoneWedgeTip,blocks,Block,New,Cobblestone Wedge Tip,,Pflasterstein - flac
 cobblestoneWedgeTipCNRFullBottom,blocks,Block,New,Cobblestone Wedge Full Corner Bottom,,Pflasterstein - flache Spitze - Komplette Ecke Unten,,,
 cobblestoneWedgeTipCNRFullTop,blocks,Block,New,Cobblestone Wedge Full Corner Top,,Pflasterstein - flache Spitze - Komplette Ecke Oben,,,
 cobblestoneWedgeTipStairs,blocks,Block,New,Cobblestone Wedge Tip Stairs,,Pflasterstein - flache Stufen - spitze,,,
-cobweb,blocks,Block,KgNone,Cobweb,Toile d'araignée,Spinnennetz,,Telaraña,
+cobweb,blocks,Block,KgNone,Cobweb,"Toile d'araignée",Spinnennetz,,Telaraña,
 cobwebDesc,blocks,Block,KgNone,A cobweb made by a spider. If this was Marvel it might mean something.,"La toile d'une araignée. Chez Marvel, ça aurait peut-être voulu dire quelque chose.","Das Netz einer Spinne. Wenn das hier Marvel wäre, dann könnte das auch etwas bedeuten.",,Una telaraña hecha por una araña. Si esto fuera Marvel podría significar algo.,
 coffeeTable,blocks,Block,New,Coffee Table,,Kaffeetisch,,,
 commercialBlindsBottom,blocks,Block,New,Commercial Blinds Bottom,,Jalousien - unten,,,
