@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Servers>
+	<ServerGroup Name="GermanMod" Logo="" Description="">
+		<Server Name="ÜbersetzungEAC" Logo="">
+			<Description>
+7 Days endlich mal mit einer gescheiten Deutschen übersetzung
+			</Description>
+			<Version/>
+			<ReleaseNotes>https://github.com/Blaqbarrett/7Days-modlets/blob/master/German/Readme.txt</ReleaseNotes>
+			<Downloads>
+				<Download>https://github.com/Blaqbarrett/7Days-modlets/tree/master/German</Download>
+			</Downloads>
+		</Server>
+</ServerGroup>
+</Servers>
