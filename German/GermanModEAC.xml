@@ -10,7 +10,8 @@ Für EAC geeignet
 			<Version/>
 			<ReleaseNotes>https://github.com/Blaqbarrett/7Days-modlets/blob/master/German/Readme.txt</ReleaseNotes>
 			<Downloads>
-				<Download>https://github.com/Blaqbarrett/7Days-modlets/blob/master/German/Config</Download>
+    				<Download>https://raw.githubusercontent.com/Blaqbarrett/7Days-modlets/master/German/Config/Localization.txt</Download>
+    				<Download>https://raw.githubusercontent.com/Blaqbarrett/7Days-modlets/master/German/Config/Localization%20-%20Quest.txt</Download>
 			</Downloads>
 		</Server>
 </ServerGroup>
