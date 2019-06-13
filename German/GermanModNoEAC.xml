@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Servers>
+	<ServerGroup Name="GermanMod" Logo="" Description="">
+		<Server Name="ÜbersetzungOhneEAC" Logo="">
+			<Description>
+7 Days endlich mal mit einer gescheiten Deutschen übersetzung
+
+nicht für EAC geeignet
+			</Description>
+			<Version/>
+			<ReleaseNotes>https://github.com/Blaqbarrett/7Days-modlets/blob/master/German/Readme.txt</ReleaseNotes>
+			<Downloads>
+    				<Download>https://raw.githubusercontent.com/Blaqbarrett/7Days-modlets/master/German/Config/Localization.txt</Download>
+    				<Download>https://raw.githubusercontent.com/Blaqbarrett/7Days-modlets/master/German/Config/Localization%20-%20Quest.txt</Download>
+			</Downloads>
+		</Server>
+</ServerGroup>
+</Servers>
